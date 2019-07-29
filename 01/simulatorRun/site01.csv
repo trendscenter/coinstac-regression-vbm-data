@@ -1,4 +1,4 @@
-niftifile,isControl,age,sex,site,site,
+niftifile,isControl,age,sex,site
 M52202247_swc1t1_brain.nii,false,42,M,MGH
 M52210595_swc1t1_brain.nii,false,35,M,MGH
 M52211863_swc1t1_brain.nii,false,26,M,MGH
