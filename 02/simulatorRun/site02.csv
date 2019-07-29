@@ -1,4 +1,4 @@
-niftifile,isControl,age,sex,
+niftifile,isControl,age,sex,site
 M55406768_swc1t1r1_brain.nii,false,35,F,UMN
 M55410676_swc1t1r1_brain.nii,false,27,M,UMN
 M55410836_swc1t1r1_brain.nii,false,27,M,UMN
@@ -56,4 +56,4 @@ M55480294_swc1t1r1_brain.nii,true,45,F,UMN
 M55482668_swc1t1r1_brain.nii,true,23,F,UMN
 M55486248_swc1t1r1_brain.nii,true,27,M,UMN
 M55495297_swc1t1r1_brain.nii,true,23,F,UMN
-M55499484_swc1t1r1_brain.nii,true,24,F
+M55499484_swc1t1r1_brain.nii,true,24,F,UMN
