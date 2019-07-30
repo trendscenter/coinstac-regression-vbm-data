@@ -1,4 +1,4 @@
-niftifile,site,isControl,age,sex,BMI,CTQ emotional abuse,CTQ physical abuse,CTQ sexual abuse,CTQ emotional neglect,CTQ physical neglect,
+niftifile,site,isControl,age,sex,BMI,CTQ emotional abuse,CTQ physical abuse,CTQ sexual abuse,CTQ emotional neglect,CTQ physical neglect
 M55406768_swc1t1r1_brain.nii,UMN,TRUE,35,F,25.81066212,7,10,9,8,6,6
 M55410676_swc1t1r1_brain.nii,UMN,TRUE,27,M,16.01840072,9,7,6,10,5,9
 M55410836_swc1t1r1_brain.nii,UMN,TRUE,27,M,22.16396105,8,10,9,6,7,7
